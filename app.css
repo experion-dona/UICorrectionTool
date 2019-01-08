@@ -1,0 +1,14 @@
+.spell-error{
+    border: 5px solid red;
+}
+
+.title-error{
+    border-bottom: 5px solid green;
+}
+
+.common-error{
+    border-top: 5px solid blue;
+}
+.PT-10{
+    padding-top: 15px;
+}

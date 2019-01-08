@@ -1,0 +1,99 @@
+{
+	"Remove Offer Banner": "",
+	"Profiles approved": {
+		"0": ""
+	},
+	"Profile approved": {
+		"0": ""
+	},
+	"Profiles disapproved": {
+		"0": ""
+	},
+	"Profile disapproved": {
+		"0": ""
+	},
+	"Activate Retailer": "",
+	"Yes": "",
+	"No": "",
+	"Deactivate Retailer": "",
+	"User created": {
+		"0": ""
+	},
+	"Changes saved": {
+		"0": ""
+	},
+	"Edit Offer Banner": "",
+	"New Offer Banner": "",
+	"Active": "",
+	"Offer Banner Id": "",
+	"Offer Banner Name": "",
+	"Created Date": "",
+	"Offer Banner Description": "",
+	"Offer Banner": "",
+	"Cancel": "",
+	"Save": "",
+	"Name": "",
+	"Shop ERP Code": "",
+	"Shop Name": "",
+	"Shop Id": "",
+	"Mobile Number": "",
+	"Alternate Number": "",
+	"Contact Person Name": "",
+	"D/L Number": "",
+	"Date Of Birth": "",
+	"Anniversary": "",
+	"PAN Number": "",
+	"Aadhaar Number": "",
+	"Pincode": "",
+	"View Retailer": "",
+	"Edit Retailer": "",
+	"Salutation": "",
+	"Mr": {
+		"0": ""
+	},
+	"Ms": {
+		"0": ""
+	},
+	"Mrs": {
+		"0": ""
+	},
+	"Phramacists": "",
+	"Gender": "",
+	"Male": "",
+	"Female": "",
+	"Other": "",
+	"Shop Type": "",
+	"Chemist": "",
+	"D/L Number Photo": "",
+	"Address": "",
+	"City": "",
+	"District": "",
+	"State": "",
+	"Photo": "",
+	"Modify": "",
+	"Shop Photo": "",
+	"Preferred Distributor for Billing": "",
+	"Distributor Mobile Number": "",
+	"Distributor Contact Person": "",
+	"Profile Status": "",
+	"Verfied": "",
+	"Not Verfied": "",
+	"{{viewOnly?'Close':'Cancel'}}": "",
+	"Manage Retailer": "",
+	"Approve": "",
+	"Disapprove": "",
+	"All": "",
+	"Verified": "",
+	"Not Verified": "",
+	"Status": "",
+	"Inactive": "",
+	"Create User": "",
+	"Edit User": "",
+	"First Name": "",
+	"Last Name": "",
+	"Email ID": "",
+	"Password": "",
+	"Confirm Password": "",
+	"Role": "",
+	"Undo": ""
+}
